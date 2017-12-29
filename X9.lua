@@ -5,8 +5,8 @@ local min_freq = 5645
 local max_freq = 5945
 
 -- Uncomment following two lines for EU
---local min_allowed = 5725
---local max_allowed = 5875
+local min_allowed = 5725
+local max_allowed = 5875
 
 -- minimum and maximum screen x-coordinates for position screen
 local min_xpos = 11
